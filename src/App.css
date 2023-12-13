@@ -1,0 +1,32 @@
+body{
+  background-color: beige;
+}
+
+h1{
+  text-align: center;
+  color: brown;
+}
+
+div{
+  text-align: center;
+}
+
+.data{
+  border: 3px solid black;
+}
+
+.user{
+  border: 3px solid black;
+}
+
+.letter{
+  border: 3px solid black;
+}
+
+.age{
+  border: 3px solid black;
+}
+
+.years{
+  border: 3px solid black;
+}
